@@ -1,1 +1,0 @@
-## [Here is my Apply](https://github.com/FatimaALzahrani/gz-dbt-repository)
