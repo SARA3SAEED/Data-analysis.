@@ -16,6 +16,7 @@
 
 
    ## Completion Badge:
-   <img src="https://drive.google.com/uc?export=view&id=1ptmwVd1ihBJvtuF-Q4i8Coxx1xdH8zO2" width="400" > <img src="https://drive.google.com/uc?export=view&id=1fSz3bYMwu4Lz_fGqKFwFZyDIgXjLmeU1" width="440" />
+   <img src="https://drive.google.com/uc?export=view&id=1ptmwVd1ihBJvtuF-Q4i8Coxx1xdH8zO2" width="400" > <img src="https://drive.google.com/uc?export=view&id=1fSz3bYMwu4Lz_fGqKFwFZyDIgXjLmeU1" width="450" /><img src="https://drive.google.com/uc?export=view&id=1qoXsVz1FmH6mkzEWyzcqg9JMHWjQEW-E" width="440" />
+
 
 
